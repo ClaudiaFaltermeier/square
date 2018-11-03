@@ -1,0 +1,9 @@
+{
+    "path" : "~/square",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

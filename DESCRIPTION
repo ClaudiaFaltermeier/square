@@ -1,0 +1,13 @@
+Package: square
+Type: Package
+Title: Square of Numeric Objects
+Version: 0.0-1
+Date: 2018-11-02
+Author@R: person("Claudia", "Faltermeier", email = "claudia.faltermeier@uzh.ch", role = c("aut", "cre"))
+Author: Claudia Faltermeier [aut, cre]
+Maintainer: Claudia Faltermeier <claudia.faltermeier@uzh.ch>
+Description: Generic function for the square of numeric objects.
+License: GPL(>=2)
+Depends: R (>= 3.2.0)
+Encoding: UTF-8
+LazyData: true
